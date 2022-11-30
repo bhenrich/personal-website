@@ -37,3 +37,20 @@ b {
 pwd {
     color:#090c0e;
 }
+
+.th1 {
+    text-align: left;
+}
+
+.th2 {
+    text-align: top;
+    padding-left: 80pt;
+    padding-right: 0pt;
+    padding-top: 5pt;
+    margin-top: 5pt;
+    margin-top: 10px;
+    border-top: 5pt;
+    justify-content: top;
+    position: absolute;
+    top: 50px;
+}
